@@ -4,7 +4,6 @@
 #         OS : GNU/Linux Ubuntu 16.04 or 18.04
 #   LANGUAGE : Python 3.5.2 or later
 #     AUTHOR : Kornilova D. V.
-# MAINTAINER : Klim V. O.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 '''
