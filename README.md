@@ -1,4 +1,3 @@
-# taskBelH
 # Веб-Сервер
 В данном задании с помощью Flask и gevent.pywsgi.WSGIServer был реализован веб-сервер.
 
